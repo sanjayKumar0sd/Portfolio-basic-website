@@ -1,0 +1,148 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: Young Serif;
+}
+.container {
+  padding: 50px;
+}
+.sec-one {
+  background-color: blueviolet;
+  color: black;
+  padding: 20px;
+}
+.sec-one__contact {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: black;
+  color: blueviolet;
+  border-radius: 20px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 10px;
+}
+.sec-one__name {
+  font-size: 60px;
+}
+.sec-one__role {
+  font-size: 30px;
+  display: block;
+}
+.sec-two,
+.sec-three,
+.sec-four,
+.sec-five {
+  margin-top: 20px;
+}
+.sec-two__desc,
+.sec-three__desc,
+.sec-four__desc,
+.sec-five__desc {
+  margin-top: 10px;
+}
+.sec-five {
+  background-color: blueviolet;
+  color: black;
+  padding: 10px;
+  font-size: 20px;
+}
+.sec-five__title a {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: black;
+  color: blueviolet;
+  border-radius: 20px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 10px;
+}
+.sec-three__desc li,
+.sec-four__desc li {
+  list-style: none;
+}
+.sec-three {
+  background-color: #411b72;
+  padding: 20px;
+  display: inline-block;
+  border-radius: 20px;
+  color: white;
+  height: 200px;
+  vertical-align: top;
+}
+.sec-four {
+  background-color: #211b66;
+  color: white;
+  padding: 20px;
+  display: inline-block;
+  border-radius: 20px;
+  height: 200px;
+  vertical-align: top;
+}
+.sec-four__desc a {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: white;
+  color: #211b66;
+  border-radius: 20px;
+  text-decoration: none;
+  display: inline-block;
+  margin: 10px;
+}
+.contact-form {
+  margin-top: 20px;
+}
+.contact-form__name,
+.contact-form__email,
+.contact-form__message,
+.contact-form__submite {
+  margin-top: 10px;
+}
+.contact-form__name{padding: 10px;
+border: none;
+border-bottom: solid black;}
+.contact-form__email{padding: 10px;
+border: none;
+border-bottom: solid black;}
+.contact-form__message{padding: 10px;
+border: none;
+border-bottom: solid black;}
+.contact-form__submite{ padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color:blueviolet;
+  color: blACK;
+  border-radius: 20px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 10px;}
+  .form{margin-top: 20px;}
+  .form__name,.form__age,.form__add,.form__course,.form__pn,.form__dob,.form__email,.form__male,.form__female,.form__reset,.form__submite,.form__box{margin-top: 10px;}
+  .reg-form{background-color: blueviolet;
+  color: black;
+  padding: 20px;}
+.box-dec{background-color: blueviolet;
+  color: black;
+  padding: 20px;
+margin-top: 10px;}
+  .form__reset,.form__submit{padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color:blueviolet;
+  color: blACK;
+  border-radius: 20px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 10px;}
+  .form__name,.form__age,.form__add,.form__pn,.form__email{padding: 10px;
+border: none;
+border-bottom: solid black;}
